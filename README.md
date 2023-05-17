@@ -1,0 +1,1 @@
+# SeeedStudio-XIAO-nRF52840-sidewalk
